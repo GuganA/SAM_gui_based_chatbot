@@ -7,3 +7,6 @@ This a Desktop based chatbot. this bot can be customized by the user requirement
 
 ## Preview
 ![](botimg.png)
+
+## Future Work 
+With voice enabled function
